@@ -1,0 +1,13 @@
+#+TITLE: c-std
+#+AUTHOR: phdenzel
+
+* c-std
+
+  A C library of vector structs and macros.
+
+*** Compile
+    
+    TO compile the programs in the terminal, type:
+    #+BEGIN_SRC shell :exports none
+      make
+    #+END_SRC
