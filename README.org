@@ -5,7 +5,7 @@
 
 *** Compile
     
-    TO compile the programs in the terminal, type:
+    To compile the programs in the terminal, type:
     #+BEGIN_SRC shell :exports none
       make
     #+END_SRC
