@@ -1,9 +1,7 @@
 #+TITLE: c-std
 #+AUTHOR: phdenzel
 
-* c-std
-
-  A C library of vector structs and macros.
+  A library of vector structs and macros in C.
 
 *** Compile
     
